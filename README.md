@@ -63,7 +63,10 @@ O projeto consiste em ler continuamente as leituras dos sensores DHT11 e LDR e c
   - Conecte o Buzzer ao pino 12 do Arduino.
 - Monte o circuito em uma protoboard seguindo o esquemático fornecido.
 - Utilize a imagem a seguir para facilitar a montagem:
-- (inserir link da imagem)
+  <details>
+    <summary>Imagem do circuito:</summary>
+    <img src="Circuito_CP2"  />
+  </details>
   
  ## 💻 Como Instalar e Executar o Código
 ### Opção 1: Instalação da IDE do Arduino (Para quem possui o Arduino fisicamente)
