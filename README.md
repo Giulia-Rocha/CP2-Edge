@@ -91,6 +91,6 @@ O projeto consiste em ler continuamente as leituras dos sensores DHT11 e LDR e c
   - Após a simulação, você verá as leituras de temperatura, umidade e luminosidade sendo exibidas na simulação, juntamente com a indicação dos LEDs e do buzzer conforme as condições ambientais.
 
 ## 🖋️ Autores
-[Giulia Rocha](https://github.com/Giulia-Rocha)
-[Leonardo Rocha]()
-[Gustavo Viega]()
+- [Giulia Rocha](https://github.com/Giulia-Rocha)
+- [Leonardo Rocha](https://github.com/leonardorscarpitta)
+- [Gustavo Viega](https://github.com/Vieg4)
