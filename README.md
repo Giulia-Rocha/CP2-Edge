@@ -65,7 +65,7 @@ O projeto consiste em ler continuamente as leituras dos sensores DHT11 e LDR e c
 - Utilize a imagem a seguir para facilitar a montagem:
   <details>
     <summary>Imagem do circuito:</summary>
-    <img src="Circuito_CP2"  />
+    <img src="Circuito_CP2.png"  />
   </details>
   
  ## 💻 Como Instalar e Executar o Código
@@ -73,7 +73,7 @@ O projeto consiste em ler continuamente as leituras dos sensores DHT11 e LDR e c
   - Baixe e instale a IDE do Arduino em seu computador a partir do site oficial (https://www.arduino.cc/en/software), seguindo as instruções de instalação para o seu sistema operacional.
   - Abra a IDE do Arduino após a instalação.
   - Crie um novo projeto na IDE do Arduino.
-  - Copie o [código fornecido](codigo-fonte.cpp) neste projeto e cole na janela do editor da IDE.
+  - Copie o [código fornecido](codigo_fonte.cpp) neste projeto e cole na janela do editor da IDE.
   - Conecte o Arduino ao seu computador usando um cabo USB.
   - Selecione o tipo de placa Arduino e a porta serial correta na IDE do Arduino.
   - Compile o código clicando em "Verificar" (ícone de visto) na barra de ferramentas da IDE.
@@ -83,7 +83,7 @@ O projeto consiste em ler continuamente as leituras dos sensores DHT11 e LDR e c
   - Acesse o site do WOKWI em https://wokwi.com/arduino.
   - Crie uma conta gratuita no WOKWI ou faça login, se já tiver uma conta.
   - Na interface do WOKWI, clique em "Create New Project" para criar um novo projeto.
-  - Cole o [código fornecido](codigo-fonte.cpp) neste projeto na área de edição do código.
+  - Cole o [código fornecido](codigo_fonte.cpp) neste projeto na área de edição do código.
   - Arraste e solte os componentes necessários (Arduino Uno, DHT22, LDR, LCD, LEDs, Buzzer) da biblioteca de componentes do WOKWI para a área de trabalho.
   - Será necessário mudar para DHT22, pois a plataforma não disponibiliza o DHT11, porém, a unica mudança é a precisão na leitura.
   - Conecte os pinos dos componentes de acordo com o esquemático fornecido neste projeto.
